@@ -1,0 +1,21 @@
+{
+    "name": "guopee/yii2-easyinput",
+    "description": "yii2-easyinput",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guopee.com",
+            "email": "2984403397@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "guopee\\": ""
+        }
+    }
+}
