@@ -1,6 +1,6 @@
-yii2-easyinput
+yii2-appendGrid
 ==============
-yii2-easyinput
+yii2-appendGrid
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist guopee/yii2-easyinput "*"
+php composer.phar require --prefer-dist guopee/yii2-appendGrid "*"
 ```
 
 or add
 
 ```
-"guopee/yii2-easyinput": "*"
+"guopee/yii2-appendGrid": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -29,7 +29,7 @@ Once the extension is installed, simply use it in your code by  :
 ```php
 <?php
 $form->field($this, $key)->widget(
-	'guopee\Easyinput',
+	'guopee\appendGrid',
 	[
 	    'configs' =>
 	        [
