@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist guopee/yii2-appendGrid "*"
+php composer.phar require --prefer-dist guopee/yii2-appendgrid "*"
 ```
 
 or add
 
 ```
-"guopee/yii2-appendGrid": "*"
+"guopee/yii2-appendgrid": "*"
 ```
 
 to the require section of your `composer.json` file.
