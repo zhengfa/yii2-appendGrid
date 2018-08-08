@@ -1,6 +1,6 @@
 yii2-appendGrid
 ==============
-yii2-appendGrid
+yii2 extension based on jquery.appendGrid-1.7.1
 
 Installation
 ------------
