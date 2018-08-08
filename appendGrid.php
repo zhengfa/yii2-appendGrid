@@ -5,7 +5,7 @@ namespace guopee;
 use yii\widgets\InputWidget;
 use guopee\Assets;
 
-class Easyinput extends InputWidget
+class appendGrid extends InputWidget
 {
     public $configs;
     public $grid_id;
