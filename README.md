@@ -42,4 +42,4 @@ $form->field($this, $key)->widget(
 	            'initData'=>json_decode($this->$key)
 	        ]
 	])
-?>```
+?>
